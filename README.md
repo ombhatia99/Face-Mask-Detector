@@ -12,3 +12,7 @@ The images used were real images of faces wearing masks. The images were collect
 * __Bing Search API__ ([See Python script](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/search.py))
 * __Kaggle datasets__ 
 * __RMFD dataset__ ([See here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset))
+
+## :key: Prerequisites
+
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> 
