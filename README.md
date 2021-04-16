@@ -31,7 +31,7 @@ All the dependencies and required libraries are included in the file <code>requi
 Hyperparameter: 
     - batch size: 32
     - Learing rate: 0.0001
-    - Input size: 112x112x3
+    - Input size: 64x64x3
 
 Model result
 | Model         | Test Accuracy| Size        | Params    | Memory consumption|
