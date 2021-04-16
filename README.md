@@ -57,7 +57,7 @@ command
 $ streamlit run app.py 
 ```
 
-## Result
+## ☑️Result
 Hyperparameter: 
     - batch size: 32
     - Learing rate: 0.0001
