@@ -11,7 +11,7 @@ The images used were real images of faces wearing masks. The images were collect
 
 * __Bing Search API__ ([See Python script](https://github.com/ombhatia99/Face-Mask-Detector/blob/main/search.py))
 * __Kaggle datasets__ 
-* __RMFD dataset__ ([See here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset))
+* __RMFD dataset__ ([See here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset))([medium article link](https://medium.com/the-programming-hub/wolrds-most-complete-masked-face-recognition-dataset-is-for-free-10d780eed512))
 
 ## :key: Prerequisites
 
