@@ -74,5 +74,5 @@ Model result
 | MobileNetV2 (fine tune)  |  97.33%      | **20.8MB**  | 1,094,373 | 226.67 MB
 | **Xception**  | **98.33%**   | 96.6MB      | 1,074,789 | 368.18 MB
 
-## :eyes: License
+## 🌸 License
 MIT © [Om Bhatia](https://github.com/ombhatia99/Face-Mask-Detector/blob/main/LICENSE)
