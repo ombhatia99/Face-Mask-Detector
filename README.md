@@ -1,8 +1,9 @@
 # Face-Mask-Detector
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
+![PyPI - Python Version](https://img.shields.io/badge/python-v3.6+-blue.svg)
 
-Creating a Face mask detctor using CNN on Tensorflow keras
+<h4>Face Mask Detector built with OpenCV, TensorFlow/Keras using Deep Learning CNN and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
+
 ## :star: TechStack/framework used
 
 - [OpenCV](https://opencv.org/)
@@ -10,7 +11,7 @@ Creating a Face mask detctor using CNN on Tensorflow keras
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
-- 
+
 ## :file_folder: Dataset
 The dataset used can be downloaded here - [Click to Download](https://drive.google.com/file/d/1L_3kDRWL24iecb4IvxvjF_npdmzWzSWW)
 
