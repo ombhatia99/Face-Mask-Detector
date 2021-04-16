@@ -48,7 +48,7 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 ```
 $ python3 detect_mask_video.py 
 ```
-## Streamlit app
+## 📑Streamlit app
 
 Face Mask Detector webapp using Tensorflow & Streamlit
 
