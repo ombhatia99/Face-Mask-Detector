@@ -1,4 +1,7 @@
 # Face-Mask-Detector
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
+
 Creating a Face mask detctor using CNN on Tensorflow keras
 ## :file_folder: Dataset
 The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG?usp=sharing)
@@ -24,3 +27,17 @@ The images used were real images of faces wearing masks. The images were collect
 ## :key: Prerequisites
 
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> 
+## Result
+Hyperparameter: 
+    - batch size: 32
+    - Learing rate: 0.0001
+    - Input size: 112x112x3
+
+Model result
+| Model         | Test Accuracy| Size        | Params    | Memory consumption|
+| ------------- | -------------|-------------|-----------|-------------------|
+| CNN           |  87.67%      | 27.1MB      | 2,203,557 | 72.58 MB
+| VGG16         |  93.08%      | 62.4MB      | **288,357**    | **18.06 MB**
+| MobileNetV2 (fine tune)  |  97.33%      | **20.8MB**  | 1,094,373 | 226.67 MB
+| **Xception**  | **98.33%**   | 96.6MB      | 1,074,789 | 368.18 MB
+
