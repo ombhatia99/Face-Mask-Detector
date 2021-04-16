@@ -3,9 +3,6 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 
 Creating a Face mask detctor using CNN on Tensorflow keras
-## :file_folder: Dataset
-The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG?usp=sharing)
-
 ## :star: TechStack/framework used
 
 - [OpenCV](https://opencv.org/)
@@ -13,6 +10,9 @@ The dataset used can be downloaded here - [Click to Download](https://drive.goog
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
+- 
+## :file_folder: Dataset
+The dataset used can be downloaded here - [Click to Download](https://drive.google.com/file/d/1L_3kDRWL24iecb4IvxvjF_npdmzWzSWW)
 
 This dataset consists of __4095 images__ belonging to two classes:
 *	__with_mask: 2165 images__
@@ -32,6 +32,8 @@ Hyperparameter:
     - batch size: 32
     - Learing rate: 0.0001
     - Input size: 64x64x3
+
+The Pre-trained models used can be downloaded here - [Click to Download](https://drive.google.com/file/d/1IzX6C0Sn-SJyFOdfFCrylvAbe8XnRdi8)
 
 Model result
 | Model         | Test Accuracy| Size        | Params    | Memory consumption|
