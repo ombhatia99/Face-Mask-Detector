@@ -3,7 +3,7 @@ Creating a Face mask detctor using CNN on Tensorflow keras
 ## :file_folder: Dataset
 The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG?usp=sharing)
 
-## :Star: TechStack/framework used
+## :star: TechStack/framework used
 
 - [OpenCV](https://opencv.org/)
 - [Caffe-based face detector](https://caffe.berkeleyvision.org/)
