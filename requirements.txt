@@ -1,5 +1,5 @@
 matplotlib==3.4.1
-tensorflow==2.5.0rc1
+tensorflow==2.5.0rc0
 requests==2.25.1
 numpy==1.19.5
 opencv_python==4.5.1.48
